@@ -1,2 +1,2 @@
-# Car--Renatal
-A simple application for booking car online
+#  BASIC CALCULATOR 
+IT is a simple calculator 
